@@ -1,1 +1,1 @@
-# Rommates backend 
+# Rommates backend app
